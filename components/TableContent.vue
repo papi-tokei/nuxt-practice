@@ -1,5 +1,5 @@
 <template>
-  <div class="border my-2 p-2">
+  <div class="border p-2">
     <div class="flex justify-between items-center mb-2">
       <div class>
         <h2 class="bg-blue-600 text-white text-lg px-2">EN</h2>
